@@ -29,8 +29,8 @@ Display the result.
 
 ## Program:
 ```
-DEVELOPED BY : GURUMOORTHI R
-REG NO : 212222230042
+DEVELOPED BY : PRANEET S
+REG NO : 212221230078
 ```
 
 
